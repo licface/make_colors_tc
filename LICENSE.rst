@@ -32,7 +32,7 @@ SUCH DAMAGE.
 
 ----
 
-make_colors uses parts of optparse written by Hadi Cahyadi, LD. Ward and maintained
+make_colors_tc uses parts of optparse written by Hadi Cahyadi, LD. Ward and maintained
 by the Python Software Foundation.
 
 Copyright © 2017-2019 Hadi Cahyadi, LD. All rights reserved.

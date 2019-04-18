@@ -1,4 +1,4 @@
-\$ make_colors\_
+make_colors_tc
 ==================
 
 This is make command line text colored
@@ -11,9 +11,9 @@ Install and update using `pip`_:
 
 .. code-block:: text
 
-    $ pip install make_colors
+    $ pip install make_colors_tc
 
-make_colors supports Python 2 and newer, Python 3 and newer, and PyPy.
+make_colors_tc supports Python 2 and newer, Python 3 and newer, and PyPy.
 
 .. _pip: https://pip.pypa.io/en/stable/quickstart/
 
@@ -21,11 +21,11 @@ make_colors supports Python 2 and newer, Python 3 and newer, and PyPy.
 A Simple Example
 ----------------
 
-What does it look like? Here is an example of a simple make_colors program:
+What does it look like? Here is an example of a simple make_colors_tc program:
 
 .. code-block:: python
 
-    from make_colors import make_colors
+    from make_colors_tc import make_colors
     
     print make_colors('This is White on Red', 'white', 'red')
     print make_colors('This is Light White on Light Red', 'lightwhite', 'lightred')
@@ -51,6 +51,6 @@ Support
 Links
 -----
 
-*   License: `BSD <https://github.com/licface/make_colors/blob/master/LICENSE.rst>`_
-*   Code: https://github.com/licface/make_colors
+*   License: `BSD <https://github.com/licface/make_colors_tc/blob/master/LICENSE.rst>`_
+*   Code: https://github.com/licface/make_colors_tc
 *   Issue tracker: https://github.com/licface/make_color/issues

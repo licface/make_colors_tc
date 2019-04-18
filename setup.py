@@ -11,13 +11,13 @@ import __version__
 version = __version__.version
 
 setup(
-    name="make_colors",
+    name="make_colors_tc",
     version=version,
-    url="https://github.com/licface/make_colors",
+    url="https://github.com/licface/make_colors_tc",
     project_urls={
-        "Documentation": "https://github.com/licface/make_colors",
-        "Code": "https://github.com/licface/make_colors",
-        "Issue tracker": "https://github.com/licface/make_colors/issues",
+        "Documentation": "https://github.com/licface/make_colors_tc",
+        "Code": "https://github.com/licface/make_colors_tc",
+        "Issue tracker": "https://github.com/licface/make_colors_tc/issues",
     },
     license="BSD",
     author="Hadi Cahyadi LD",
@@ -26,7 +26,7 @@ setup(
     maintainer_email="cumulus13@gmail.com",
     description="Make command line text colored",
     long_description=readme,
-    packages=["make_colors"],
+    packages=["make_colors_tc"],
     include_package_data=True,
     python_requires=">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*",
     classifiers=[
