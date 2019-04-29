@@ -1,1 +1,1 @@
-from make_colors_tc import make_colors
+from .make_colors_tc import make_colors
